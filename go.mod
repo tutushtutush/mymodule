@@ -1,3 +1,3 @@
-module github.com/tutushtutush/mymodule/v3
+module github.com/tutushtutush/mymodule
 
 go 1.19
